@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2JfM3JpwNYiDPRwiZYOo83h5o4rBOIfGSpuz14+meMLRwNUTRUM9Utkmg/yVkYplEBn1MbLP7a/V4wGh3535A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KyleCuss\\Documents\\GodotProjects\\DungeonRpg\\DungeonRpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KyleCuss\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\KyleCuss\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\KyleCuss\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

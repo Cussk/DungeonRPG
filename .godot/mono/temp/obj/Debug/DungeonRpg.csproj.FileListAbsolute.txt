@@ -1,0 +1,17 @@
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\bin\Debug\DungeonRpg.deps.json
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\bin\Debug\DungeonRpg.runtimeconfig.json
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\bin\Debug\DungeonRpg.dll
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\bin\Debug\DungeonRpg.pdb
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.csproj.AssemblyReference.cache
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.AssemblyInfoInputs.cache
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.AssemblyInfo.cs
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.csproj.CoreCompileInputs.cache
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.csproj.CopyComplete
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.dll
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\refint\DungeonRpg.dll
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.pdb
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.genruntimeconfig.cache
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\ref\DungeonRpg.dll
