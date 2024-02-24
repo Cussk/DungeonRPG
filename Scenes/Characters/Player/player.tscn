@@ -72,11 +72,14 @@ _data = {
 "Move": SubResource("Animation_lhbtf")
 }
 
-[node name="Player" type="CharacterBody3D"]
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("_animationPlayerNode", "_spriteNode")]
 script = ExtResource("1_qy2sq")
+_animationPlayerNode = NodePath("AnimationPlayer")
+_spriteNode = NodePath("Sprite3D")
 
 [node name="Sprite3D" type="Sprite3D" parent="."]
-texture = ExtResource("30_kc75h")
+texture_filter = 0
+texture = ExtResource("2_vtdc5")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {

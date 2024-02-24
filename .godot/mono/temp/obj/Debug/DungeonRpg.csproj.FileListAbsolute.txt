@@ -15,3 +15,4 @@ C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\
 C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.pdb
 C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.genruntimeconfig.cache
 C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\ref\DungeonRpg.dll
+C:\Users\KyleCuss\Documents\GodotProjects\DungeonRpg\.godot\mono\temp\obj\Debug\DungeonRpg.sourcelink.json
