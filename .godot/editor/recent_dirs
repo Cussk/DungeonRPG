@@ -1,5 +1,6 @@
-res://Scenes/Levels
+res://Scripts/Character
 res://Scripts/Character/Player
+res://Scenes/Levels
 res://Scripts/Levels
 res://Scenes/Characters/Player
 res://Assets
